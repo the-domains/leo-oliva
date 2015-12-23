@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#C0C0C0'
+    - '#000000'
+    - '#885048'
+    - '#000000'
+    - '#000000'
+  brandStrength: 0.073485
+  lightness: 0.887481
+  rhythmicContrast: 0.94606
+  saturation: 0.378289
+cta: {}
+layout_spectrum: 0.912007
+name: Leo Oliva
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.227796
