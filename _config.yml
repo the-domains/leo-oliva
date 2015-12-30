@@ -1,7 +1,7 @@
 name: Leo Oliva
 favicon: null
 layout_spectrum: 0.912007
-typography_spectrum: 0.227796
+typography_spectrum: 0.61316
 cta:
   domain: null
   bucket: null
@@ -22,9 +22,9 @@ color:
     - '#cfd0cb'
     - '#727c85'
   brandStrength: 1
-  lightness: 0.887481
-  saturation: 0.378289
-  rhythmicContrast: 0.94606
+  lightness: 0.3125
+  saturation: 0.125
+  rhythmicContrast: 0.5
 purpose:
   - name: null
     item: null
