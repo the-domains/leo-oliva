@@ -1,18 +1,31 @@
-analytics: {}
+name: Leo Oliva
+favicon: null
+layout_spectrum: 0.912007
+typography_spectrum: 0.227796
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
-    - '#C0C0C0'
-    - '#000000'
-    - '#885048'
-    - '#000000'
-    - '#000000'
-  brandStrength: 0.810855
+    - '#fafafa'
+    - '#505750'
+    - '#0e0e0e'
+    - '#cfd0cb'
+    - '#727c85'
+  brandStrength: 1
   lightness: 0.887481
-  rhythmicContrast: 0.94606
   saturation: 0.378289
-cta: {}
-layout_spectrum: 0.912007
-name: Leo Oliva
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.227796
+  rhythmicContrast: 0.94606
+purpose:
+  - name: null
+    item: null
+    url: null
